@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Analisis Profiling Siswa",
+  "description": "Integrasi AI Prediktif, Personalisasi Jalur Belajar, Analisis Kedisiplinan, dan Evaluasi Mata Pelajaran Rapor Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
